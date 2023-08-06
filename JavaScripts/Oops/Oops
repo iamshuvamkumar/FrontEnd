@@ -1,0 +1,29 @@
+ES6 OOPs Concepts :
+
+object oriented system is softwer development paradigm that folow real word entity(mordling)
+
+object oriented concider a probram as collection of program that communation etc other with macmakisam mathod
+
+what is object
+
+object is real world or real time representation of eny entity in other word an entity has satate and viheber 
+
+accpding to the softwer engener 
+ every object has three feture 
+ state : - data
+ behavior :- 
+ identity :- 
+
+ class :- class is noting it is a templet or bluprint
+
+ class in capsulate multipal object 
+
+ systex 
+ class class_Name{
+ fields
+ method
+ }
+ class object
+
+
+ 

@@ -1,0 +1,44 @@
+opreater are symbol 
+type of opreater
+airthmatic opreater
+is + - * / % ^ ( )
+arithmetic operators (+,-,*,/) can be applied with numbers as operand
+
+logical opreater
+are used to compare two operands in an expression
+: and, or, not
+operators. They perform logical operations on boolean values True/False only
+
+bitwase opreater
+perform bitwise operation between bits within a number such as AND OR XOR NOT etc..
+They operate at the level of individual binary digits rather than decimal places like arithmetic operator does.
+
+relational operator
+compares the value of its left-hand side operand with that of right-hand side operand using
+a relational operator like < > <= >= ==!=
+
+assignment operator
+assigns a new value to variable(left hand) based upon the result obtained from evaluating the rig
+ht-hand side expression(right hand). The assignment is done by placing the equal sign 
+between them. Example : x = y+z assigns sum of z and y into variable 'x
+
+increment & decrement operator
+used for incrementing or decreasing the value stored inside variables without assigning it back
+to same memory location
+++var increments var's current value by one then returns updated value after each use
+--var decrements var's current value by one then returns updated value after each use
+
+compound statements
+group multiple statements together under single name so they execute sequentially
+example if else statement which contains both conditional execution block alongside code blocks
+for loop also known as iteration control structure executes set of instructions repeatedly until certain condition is met
+for loop
+while loop
+do while loop
+switch case
+try catch finally
+
+
+
+
+

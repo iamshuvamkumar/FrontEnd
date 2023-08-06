@@ -1,0 +1,14 @@
+it is describe the ordr in which program axukitive  run time
+control statment / flow control
+1.selection statment : if else ,else-if, nestate if else.
+2. looping statment : do  while loop,for loop, while loop,foreach.
+transfer statment : break,continue,return,etc.
+
+selection statment: if to checkthe condition if block of code if condition if true 
+if(stmt)
+{
+
+}
+if block stmt
+nested if statment 
+if statmentinside  another  if statment is non as nested  if statment

@@ -1,0 +1,10 @@
+function is a group of code to perform a pirticular task function call anywhere in js program
+systex 
+function fun_name(parameter_list){
+    fun_body
+}
+onClick():onclick() javaScript methods 
+
+functionwith return type
+dubnction expraction is a immer to function declearatcion,
+with the defference that it can be stored in a varible

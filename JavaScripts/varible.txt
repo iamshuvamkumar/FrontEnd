@@ -1,0 +1,12 @@
+varible is name is a memory location where store a value.
+a varible is a contaner which is used to to stroe defernt type of value.
+rules:===>
+1. the only allowed charecter 
+a to z 
+A to z
+0 to 9
+
+2. we can not used reserv keyword  as a verible name
+varible can't be start with digit
+3.there is no limit to create a varible 
+4.javaScript language is case senstive language

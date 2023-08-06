@@ -1,0 +1,21 @@
+javascript provide datatype   to hold to store defrent type of value
+there are two type of data type
+1.primitive datatype
+2.non-primitive (refrence)datatype
+
+1. primitive datatype are 5 type of datatype
+a.number : its reperzent newmaic value
+b.string : it reperzent sequence of ccharecter
+c.boolean : it reperzent boolean value ather true and false
+d.null : it reperzent null that means no value at all the null datatype means the varible has been define what it contant no value 
+e.undefined : it reperzent undefined value undefined is not assigned any value, it means that the variable has been declared but no values have
+yet to be given for its use or assignment in code execution time. It's an empty placeholder and
+it can't perform any operation on itself
+it can have onnly one value undefined
+
+2.non-primitive
+object data  type : object datatype is used to store a collection of data objects propites returned by the are key value pair
+array data type
+function data type
+
+typeof opreater to which data is which type of he's return value of datatype 

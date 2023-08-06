@@ -1,0 +1,9 @@
+Javascript is the one of the poplualar in the world right now.
+big companey filed inteair apllaction around Javascript.
+using Javascript we can work frontend and backand developer or full Stack Developer.
+where Javascript used ?
+Javascript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. It is one of the most popular programming languages in the world, and is used by many major websites, including Google, Facebook, and Amazon.
+
+Javascript is used to create interactive web pages, such as those that have drop-down menus, animated graphics, and forms. It can also be used to add functionality to web pages, such as the ability to play videos or games.
+
+Javascript is a powerful language that can be used to create a wide variety of web applications. It is easy to learn, and there are many resources available to help you get started.

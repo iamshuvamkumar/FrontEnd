@@ -1,0 +1,10 @@
+loop 
+1.for-loop
+2.while-loop
+3.do- while loop
+
+1. its is used to repet a part of the programe sarveral time. if the number of itration it fix than  it is recormmand to use 
+syntex 
+for(inilazion ;condation;express )
+while-loop its is also used repet a part of the programe sarveral time if the number of itration not fixed 
+--
