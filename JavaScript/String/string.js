@@ -1,0 +1,32 @@
+var str = "Hello JavaScript String";
+var st = "          Java  in            ";
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+console.log(str.replace('e','o'));
+console.log(str.replace('o','e'));
+console.log(str.startsWith('e'));
+console.log(str.startsWith('H'));
+console.log(str.endsWith('e'));
+console.log(str.endsWith('g'));
+console.log(str.indexOf('o'));
+console.log(str.lastIndexOf('i'));
+console.log(str.search('J'));
+console.log(str.includes('y'));
+console.log(str.includes('o'));
+console.log(str.concat(st));
+console.log(str.substr(0,5));
+console.log(str.substring(0,10));
+console.log(str.slice(0,10));
+console.log(str.slice(10));
+console.log(str.repeat(10));
+console.log(str.replaceAll('i','1'));
+console.log(str.split("i"));
+console.log(str.split());
+var a  = st.trim().trimEnd();
+console.log(`${a} , ${a.length}`);
+var x = "abc";
+var y ="cba";
+console.log(x.localeCompare(y));
+console.log(y.localeCompare(x));
+
+

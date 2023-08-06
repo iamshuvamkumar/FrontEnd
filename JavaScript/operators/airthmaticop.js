@@ -1,0 +1,10 @@
+var a = 3;
+var b = 4;
+var c = 2;
+console.log(a+'+'+b,(a+b));
+console.log(a+'-'+b,(a-b));
+console.log(a+'+++',(a++));
+console.log(a+'*'+b,(a*b));
+console.log(b+'--',(b--));
+console.log(a+'%'+b,(a%b));
+console.log(a+'/'+b,(c/b));
